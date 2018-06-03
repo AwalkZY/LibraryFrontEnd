@@ -1,0 +1,38 @@
+body {
+    background: #2C3E50;
+}
+
+.main-tile{
+    background: #1ABC9C;
+}
+
+.fade-enter-active, .fade-leave-active {
+    transition: opacity .2s ease
+}
+
+.fade-enter, .fade-leave-active {
+    opacity: 0
+}
+
+.login-head{
+    color: white;
+}
+
+.glyphicon{
+    margin: 10px;
+}
+
+body{
+    overflow: auto;
+}
+
+hr{
+    height:2px;border:none;border-top:1px solid #BBBBBB;
+}
+
+th{
+    text-align: center;
+}
+td{
+    font-size:16px;
+}
